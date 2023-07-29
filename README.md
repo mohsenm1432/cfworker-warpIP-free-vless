@@ -1,12 +1,18 @@
+## setup cf worker with WARP IP without VPS totally free vless/ws 
+  
   source repo. https://github.com/zizifn/edgetunnel
   
-### setup cf wworker with warp ip totally free vless/ws 
+---------------------------------------------------------------------------------------------------------------------------------------
+
+###  ‼️ INSTRUCTION ‼️
 
 #### 1) open your cloudflare account then go in worker tab and Deploy in pages.dev
 
 #### 2) Copy code from here._worker.js [here](https://github.com/opiran-club/cfworker-warpIP-free-vless/blob/main/worker-vless.js)
 
 #### 3) Create your personal UUID and paste in above code
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ### Alternatively, you can click the button below to deploy directly.
 
