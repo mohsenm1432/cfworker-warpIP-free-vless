@@ -16,7 +16,7 @@
 
 ### همچنین، می‌توانید روی دکمه زیر کلیک کنید تا مستقیماً وارد  page.dev در cloudflare شوید
 
-![image](https://deploy.workers.cloudflare.com/?url=https://github.com/opiran-club/cfworker-warpIP-free-vless)[Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/opiran-club/cfworker-warpIP-free-vless)
+https://camo.githubusercontent.com/6eb04703e85da31c430de46d32a904a7c55c0b3bc00811ae689f14faf91cd32e/68747470733a2f2f6465706c6f792e776f726b6572732e636c6f7564666c6172652e636f6d2f627574746f6e[Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/opiran-club/cfworker-warpIP-free-vless)
 
 
 
